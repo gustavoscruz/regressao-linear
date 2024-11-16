@@ -118,3 +118,4 @@ Além disso, a validação cruzada foi aplicada para cada modelo, e a comparaç�
 ## Autores
 
 - Gustavo Cruz
+- Vinícius Castro
