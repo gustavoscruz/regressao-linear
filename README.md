@@ -93,3 +93,4 @@ O conjunto de dados utilizado contém informações sobre influenciadores do Ins
 
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/gustavoscruz/regressao-linear
+   cd regressao-linear
