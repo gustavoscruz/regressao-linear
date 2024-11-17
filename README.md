@@ -14,7 +14,7 @@ O objetivo deste projeto é implementar e avaliar o desempenho do algoritmo de *
 
 Este projeto utiliza dados de influenciadores do Instagram para prever a **taxa de engajamento** (ou **influence_score**) com base em variáveis como número de seguidores, posts, média de likes e outros fatores relacionados ao perfil de um influenciador. A variável dependente, ou target, é o **influence_score**, que é uma medida da taxa de engajamento de cada influenciador.
 
-> **Nota**: O link para acessar o conjunto de dados está disponível na seção "Instruções para o Desenvolvimento do Projeto".
+> **Nota**: [O link para acessar o conjunto de dados está disponível na seção "Instruções para o Desenvolvimento do Projeto"](https://www.kaggle.com/datasets/surajjha101/top-instagram-influencers-data-cleaned).
 
 ### Objetivos Específicos:
 
