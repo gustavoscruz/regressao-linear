@@ -135,7 +135,7 @@ Este projeto visa prever a taxa de engajamento de influenciadores no Instagram u
 
 O relatório técnico, com todos os detalhes sobre o processo de análise, implementação, otimização, ajustes de parâmetros e resultados obtidos, está disponível no repositório em formato PDF. Para acessá-lo, basta clicar no link abaixo:
 
-[Relatório Técnico - Implementação e Análise do Algoritmo de Regressão Linear](#)
+[https://github.com/gustavoscruz/regressao-linear/blob/main/Relat%C3%B3rio%20T%C3%A9cnico%20Implementa%C3%A7%C3%A3o%20e%20An%C3%A1lise%20do%20Algoritmo%20de%20Regress%C3%A3o%20Linear.pdf](#)
 
 ## Conclusão
 
